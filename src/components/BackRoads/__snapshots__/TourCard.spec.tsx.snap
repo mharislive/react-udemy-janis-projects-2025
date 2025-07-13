@@ -1,0 +1,68 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`BackRoads - TourCard > should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-col flex-1 shadow hover:shadow-2xl hover:scale-105 transition duration-500"
+  >
+    <div
+      class="relative"
+    >
+      <img
+        alt="Tibet Adventure"
+        class="w-full"
+        src="/src/assets/backroads/tour-1.jpeg"
+      />
+      <span
+        class="absolute bottom-0 right-0 bg-cyan-300 px-2 py-1 capitalize"
+      >
+        august 26th, 2020
+      </span>
+    </div>
+    <div
+      class="py-5 px-6 bg-slate-100"
+    >
+      <h3
+        class="font-bold tracking-widest mb-3 capitalize"
+      >
+        Tibet Adventure
+      </h3>
+      <p
+        class="text-slate-500 mb-5"
+      >
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.
+      </p>
+      <div
+        class="flex items-center justify-between text-cyan-500"
+      >
+        <span
+          class="capitalize"
+        >
+          <svg
+            aria-hidden="true"
+            class="svg-inline--fa fa-map "
+            data-icon="map"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M384 476.1L192 421.2l0-385.3L384 90.8l0 385.3zm32-1.2l0-386.5L543.1 37.5c15.8-6.3 32.9 5.3 32.9 22.3l0 334.8c0 9.8-6 18.6-15.1 22.3L416 474.8zM15.1 95.1L160 37.2l0 386.5L32.9 474.5C17.1 480.8 0 469.2 0 452.2L0 117.4c0-9.8 6-18.6 15.1-22.3z"
+              fill="currentColor"
+            />
+          </svg>
+           china
+        </span>
+        <span>
+          6 days
+        </span>
+        <span>
+          From $2100
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

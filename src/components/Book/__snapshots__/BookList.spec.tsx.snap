@@ -1,0 +1,67 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`BookList > should match the snapshot 1`] = `
+<DocumentFragment>
+  <section
+    class="grid grid-cols-1 md:grid-cols-3 gap-4 text-center"
+  >
+    <article
+      class="p-5 rounded-lg border-1"
+    >
+      <img
+        alt="Atomic Habits"
+        class="mx-auto mb-4 max-w-full"
+        src="https://m.media-amazon.com/images/I/81F90H7hnML._SY425_.jpg"
+      />
+      <h2
+        class="text-2xl mb-1"
+      >
+        Atomic Habits
+      </h2>
+      <h3
+        class="text-sm"
+      >
+        By James Clear
+      </h3>
+    </article>
+    <article
+      class="p-5 rounded-lg border-1"
+    >
+      <img
+        alt="Word Power Made Easy"
+        class="mx-auto mb-4 max-w-full"
+        src="https://m.media-amazon.com/images/I/71DortY2MXL._SY425_.jpg"
+      />
+      <h2
+        class="text-2xl mb-1"
+      >
+        Word Power Made Easy
+      </h2>
+      <h3
+        class="text-sm"
+      >
+        By Norman Lewis
+      </h3>
+    </article>
+    <article
+      class="p-5 rounded-lg border-1"
+    >
+      <img
+        alt="The Psychology of Money Paperback"
+        class="mx-auto mb-4 max-w-full"
+        src="https://m.media-amazon.com/images/I/71XEsXS5RlL._SY425_.jpg"
+      />
+      <h2
+        class="text-2xl mb-1"
+      >
+        The Psychology of Money Paperback
+      </h2>
+      <h3
+        class="text-sm"
+      >
+        By Morgan Housel
+      </h3>
+    </article>
+  </section>
+</DocumentFragment>
+`;

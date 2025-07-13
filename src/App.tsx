@@ -1,11 +1,7 @@
-import HelloWorld from "./components/HelloWorld/HelloWorld";
+import BackRoadsPage from "./pages/BackRoadsPage";
 
 function App() {
-  return (
-    <>
-      <HelloWorld />
-    </>
-  );
+  return <BackRoadsPage />;
 }
 
 export default App;

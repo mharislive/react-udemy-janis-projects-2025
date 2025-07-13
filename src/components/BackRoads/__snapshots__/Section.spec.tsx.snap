@@ -1,0 +1,32 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`BackRoads - Section > should match snapshot with heading 1`] = `
+<DocumentFragment>
+  <section
+    class="py-20 test"
+    id="test"
+  >
+    <h2
+      class="text-4xl font-bold text-center uppercase tracking-widest mb-16"
+    >
+      Heading
+    </h2>
+    <p>
+      Lorem Ipsum
+    </p>
+  </section>
+</DocumentFragment>
+`;
+
+exports[`BackRoads - Section > should match snapshot without heading 1`] = `
+<DocumentFragment>
+  <footer
+    class="py-20 "
+    id=""
+  >
+    <p>
+      Lorem Ipsum
+    </p>
+  </footer>
+</DocumentFragment>
+`;

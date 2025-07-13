@@ -1,0 +1,25 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Book > should match the snapshot 1`] = `
+<DocumentFragment>
+  <article
+    class="p-5 rounded-lg border-1"
+  >
+    <img
+      alt="Atomic Habits"
+      class="mx-auto mb-4 max-w-full"
+      src="https://m.media-amazon.com/images/I/81F90H7hnML._SY425_.jpg"
+    />
+    <h2
+      class="text-2xl mb-1"
+    >
+      Atomic Habits
+    </h2>
+    <h3
+      class="text-sm"
+    >
+      By James Clear
+    </h3>
+  </article>
+</DocumentFragment>
+`;
